@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleMathGame/1.0.0": {
+        "runtime": {
+          "SimpleMathGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleMathGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

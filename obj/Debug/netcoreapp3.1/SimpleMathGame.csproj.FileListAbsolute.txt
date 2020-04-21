@@ -1,0 +1,13 @@
+D:\Software Projects\CSharp\SimpleMathGame\bin\Debug\netcoreapp3.1\SimpleMathGame.exe
+D:\Software Projects\CSharp\SimpleMathGame\bin\Debug\netcoreapp3.1\SimpleMathGame.deps.json
+D:\Software Projects\CSharp\SimpleMathGame\bin\Debug\netcoreapp3.1\SimpleMathGame.runtimeconfig.json
+D:\Software Projects\CSharp\SimpleMathGame\bin\Debug\netcoreapp3.1\SimpleMathGame.runtimeconfig.dev.json
+D:\Software Projects\CSharp\SimpleMathGame\bin\Debug\netcoreapp3.1\SimpleMathGame.dll
+D:\Software Projects\CSharp\SimpleMathGame\bin\Debug\netcoreapp3.1\SimpleMathGame.pdb
+D:\Software Projects\CSharp\SimpleMathGame\obj\Debug\netcoreapp3.1\SimpleMathGame.csprojAssemblyReference.cache
+D:\Software Projects\CSharp\SimpleMathGame\obj\Debug\netcoreapp3.1\SimpleMathGame.csproj.CoreCompileInputs.cache
+D:\Software Projects\CSharp\SimpleMathGame\obj\Debug\netcoreapp3.1\SimpleMathGame.AssemblyInfoInputs.cache
+D:\Software Projects\CSharp\SimpleMathGame\obj\Debug\netcoreapp3.1\SimpleMathGame.AssemblyInfo.cs
+D:\Software Projects\CSharp\SimpleMathGame\obj\Debug\netcoreapp3.1\SimpleMathGame.dll
+D:\Software Projects\CSharp\SimpleMathGame\obj\Debug\netcoreapp3.1\SimpleMathGame.pdb
+D:\Software Projects\CSharp\SimpleMathGame\obj\Debug\netcoreapp3.1\SimpleMathGame.genruntimeconfig.cache
